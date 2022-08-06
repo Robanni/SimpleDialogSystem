@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialog>
+    <Text dialogIndex = "0">First dialog text</Text>
+    <Text dialogIndex = "1">Second dialog text</Text>
+    <Text dialogIndex = "2">Third dialog text</Text>
+</dialog>
